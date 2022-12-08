@@ -15,10 +15,10 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.octoprint.org
-  baseUrl: /statuspage
+  cname: status.octoprint.org
+  # baseUrl: /statuspage
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: OctoPrint Status
+  name: status.octoprint.org
   introTitle: OctoPrint is the snappy web interface for your 3d printer
   introMessage: Here you can find the status of various services provided by the OctoPrint project.
   navbar:
