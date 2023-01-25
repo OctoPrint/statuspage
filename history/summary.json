@@ -4,19 +4,19 @@
     "url": "https://octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/octoprint.org.ico",
     "slug": "octoprint-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 856,
-    "timeDay": 639,
-    "timeWeek": 774,
-    "timeMonth": 864,
-    "timeYear": 856,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 860,
+    "timeDay": 853,
+    "timeWeek": 810,
+    "timeMonth": 870,
+    "timeYear": 860,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 13
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://plugins.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 933,
-    "timeDay": 746,
-    "timeWeek": 801,
-    "timeMonth": 929,
+    "timeDay": 855,
+    "timeWeek": 822,
+    "timeMonth": 930,
     "timeYear": 933,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 13
     }
   },
   {
@@ -62,19 +62,19 @@
     "url": "https://tracking.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/tracking.octoprint.org.ico",
     "slug": "tracking-octoprint-org",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 882,
-    "timeDay": 1146,
-    "timeWeek": 828,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.95%",
+    "time": 883,
+    "timeDay": 1036,
+    "timeWeek": 840,
     "timeMonth": 923,
-    "timeYear": 882,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2023-01-25": 23
+      "2023-01-25": 35
     }
   }
 ]
