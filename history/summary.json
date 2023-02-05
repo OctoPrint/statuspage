@@ -4,9 +4,9 @@
     "url": "https://octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/octoprint.org.ico",
     "slug": "octoprint-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 732,
     "timeMonth": 876,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-05": 0
+    }
   },
   {
     "name": "community.octoprint.org",
@@ -40,9 +42,9 @@
     "url": "https://plugins.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 765,
     "timeMonth": 842,
     "timeYear": 908,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-05": 0
+    }
   },
   {
     "name": "tracking.octoprint.org",
