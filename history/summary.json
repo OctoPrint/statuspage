@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/octoprint.org.ico",
     "slug": "octoprint-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 877,
-    "timeDay": 1051,
-    "timeWeek": 786,
-    "timeMonth": 885,
-    "timeYear": 877,
-    "dailyMinutesDown": {
-      "2023-02-05": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 874,
+    "timeDay": 923,
+    "timeWeek": 769,
+    "timeMonth": 883,
+    "timeYear": 874,
+    "dailyMinutesDown": {}
   },
   {
     "name": "community.octoprint.org",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 981,
-    "timeDay": 912,
-    "timeWeek": 784,
+    "time": 978,
+    "timeDay": 768,
+    "timeWeek": 760,
     "timeMonth": 1063,
-    "timeYear": 981,
+    "timeYear": 978,
     "dailyMinutesDown": {}
   },
   {
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 908,
-    "timeDay": 913,
-    "timeWeek": 776,
-    "timeMonth": 842,
-    "timeYear": 908,
-    "dailyMinutesDown": {
-      "2023-02-05": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 906,
+    "timeDay": 821,
+    "timeWeek": 753,
+    "timeMonth": 839,
+    "timeYear": 906,
+    "dailyMinutesDown": {}
   },
   {
     "name": "tracking.octoprint.org",
@@ -68,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
-    "time": 874,
-    "timeDay": 817,
-    "timeWeek": 700,
-    "timeMonth": 914,
-    "timeYear": 874,
+    "time": 869,
+    "timeDay": 606,
+    "timeWeek": 652,
+    "timeMonth": 909,
+    "timeYear": 869,
     "dailyMinutesDown": {
       "2023-01-25": 35
     }
