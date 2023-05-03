@@ -22,9 +22,9 @@
     "url": "https://community.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/community.octoprint.org.ico",
     "slug": "community-octoprint-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 840,
     "timeMonth": 845,
     "timeYear": 938,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-03": 0
+    }
   },
   {
     "name": "plugins.octoprint.org",
