@@ -22,18 +22,20 @@
     "url": "https://community.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/community.octoprint.org.ico",
     "slug": "community-octoprint-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1001,
-    "timeDay": 638,
-    "timeWeek": 872,
-    "timeMonth": 1130,
-    "timeYear": 1001,
-    "dailyMinutesDown": {}
+    "time": 999,
+    "timeDay": 557,
+    "timeWeek": 822,
+    "timeMonth": 1110,
+    "timeYear": 999,
+    "dailyMinutesDown": {
+      "2023-08-11": 0
+    }
   },
   {
     "name": "plugins.octoprint.org",
