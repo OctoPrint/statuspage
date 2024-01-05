@@ -4,19 +4,19 @@
     "url": "https://octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/octoprint.org.ico",
     "slug": "octoprint-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 871,
-    "timeDay": 933,
-    "timeWeek": 769,
-    "timeMonth": 775,
+    "timeDay": 866,
+    "timeWeek": 772,
+    "timeMonth": 776,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2024-01-05": 1
+      "2024-01-05": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://plugins.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 959,
-    "timeWeek": 851,
-    "timeMonth": 853,
+    "time": 902,
+    "timeDay": 877,
+    "timeWeek": 844,
+    "timeMonth": 851,
     "timeYear": 896,
     "dailyMinutesDown": {
-      "2024-01-05": 0
+      "2024-01-05": 13
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://tracking.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/tracking.octoprint.org.ico",
     "slug": "tracking-octoprint-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 863,
-    "timeDay": 1053,
-    "timeWeek": 789,
-    "timeMonth": 761,
-    "timeYear": 866,
+    "timeDay": 866,
+    "timeWeek": 775,
+    "timeMonth": 759,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2024-01-05": 0,
+      "2024-01-05": 13,
       "2023-01-25": 35
     }
   }
