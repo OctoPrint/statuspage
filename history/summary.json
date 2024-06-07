@@ -42,19 +42,19 @@
     "url": "https://plugins.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 885,
-    "timeDay": 670,
-    "timeWeek": 797,
-    "timeMonth": 854,
+    "timeDay": 724,
+    "timeWeek": 794,
+    "timeMonth": 851,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-06-07": 1
+      "2024-06-07": 13
     }
   },
   {
