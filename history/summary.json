@@ -64,19 +64,19 @@
     "url": "https://tracking.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/tracking.octoprint.org.ico",
     "slug": "tracking-octoprint-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 863,
-    "timeDay": 5603,
-    "timeWeek": 2459,
-    "timeMonth": 1271,
-    "timeYear": 830,
+    "timeDay": 4419,
+    "timeWeek": 2300,
+    "timeMonth": 1259,
+    "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-08-24": 0
+      "2024-08-24": 12
     }
   }
 ]
