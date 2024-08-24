@@ -24,19 +24,19 @@
     "url": "https://community.octoprint.org",
     "icon": "https://icons.duckduckgo.com/ip3/community.octoprint.org.ico",
     "slug": "community-octoprint-org",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.57%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
-    "time": 919,
-    "timeDay": 5425,
-    "timeWeek": 2623,
-    "timeMonth": 1388,
-    "timeYear": 876,
+    "uptimeDay": "97.75%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
+    "time": 927,
+    "timeDay": 5250,
+    "timeWeek": 2798,
+    "timeMonth": 1481,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-08-24": 21
+      "2024-08-24": 32
     }
   },
   {
