@@ -66,8 +66,8 @@
     "slug": "tracking-octoprint-org",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
@@ -76,7 +76,7 @@
     "timeMonth": 1259,
     "timeYear": 831,
     "dailyMinutesDown": {
-      "2024-08-25": 0
+      "2024-08-25": 1
     }
   }
 ]
