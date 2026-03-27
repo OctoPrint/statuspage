@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 893,
-    "timeDay": 761,
-    "timeWeek": 863,
-    "timeMonth": 875,
-    "timeYear": 905,
+    "timeDay": 774,
+    "timeWeek": 874,
+    "timeMonth": 876,
+    "timeYear": 906,
     "dailyMinutesDown": {
       "2025-07-14": 20,
       "2025-05-27": 23
@@ -27,14 +27,14 @@
     "slug": "community-octoprint-org",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "96.14%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 894,
-    "timeDay": 651,
-    "timeWeek": 860,
-    "timeMonth": 849,
+    "timeDay": 968,
+    "timeWeek": 868,
+    "timeMonth": 848,
     "timeYear": 913,
     "dailyMinutesDown": {
       "2026-03-25": 56
@@ -50,11 +50,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.81%",
-    "time": 937,
-    "timeDay": 924,
-    "timeWeek": 977,
-    "timeMonth": 941,
+    "uptimeYear": "83.08%",
+    "time": 936,
+    "timeDay": 900,
+    "timeWeek": 996,
+    "timeMonth": 948,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2025-05-27": 1236,
@@ -117,8 +117,7 @@
       "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
-      "2025-03-28": 1440,
-      "2025-03-27": 1440
+      "2025-03-28": 1440
     }
   },
   {
@@ -133,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 875,
-    "timeDay": 836,
+    "timeDay": 818,
     "timeWeek": 962,
-    "timeMonth": 885,
+    "timeMonth": 891,
     "timeYear": 882,
     "dailyMinutesDown": {
       "2025-10-14": 35
