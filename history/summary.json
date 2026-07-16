@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 879,
-    "timeDay": 820,
-    "timeWeek": 812,
-    "timeMonth": 739,
-    "timeYear": 871,
+    "timeDay": 607,
+    "timeWeek": 811,
+    "timeMonth": 741,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   },
   {
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 897,
-    "timeDay": 661,
-    "timeWeek": 813,
-    "timeMonth": 836,
-    "timeYear": 898,
+    "timeDay": 781,
+    "timeWeek": 820,
+    "timeMonth": 835,
+    "timeYear": 897,
     "dailyMinutesDown": {
       "2026-03-25": 56,
       "2026-04-17": 134
@@ -44,16 +44,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/plugins.octoprint.org.ico",
     "slug": "plugins-octoprint-org",
     "status": "up",
-    "uptime": "94.82%",
+    "uptime": "94.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 822,
-    "timeWeek": 896,
-    "timeMonth": 853,
-    "timeYear": 942,
+    "timeDay": 655,
+    "timeWeek": 876,
+    "timeMonth": 852,
+    "timeYear": 940,
     "dailyMinutesDown": {}
   },
   {
@@ -68,10 +68,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 868,
-    "timeDay": 637,
-    "timeWeek": 840,
-    "timeMonth": 752,
-    "timeYear": 858,
+    "timeDay": 608,
+    "timeWeek": 828,
+    "timeMonth": 749,
+    "timeYear": 857,
     "dailyMinutesDown": {
       "2025-10-14": 35
     }
