@@ -1,7 +1,7 @@
 url: https://octoprint.org
-status: up
-code: 200
-responseTime: 896
-lastUpdated: 2026-10-26T00:56:44.555Z
+status: down
+code: 429
+responseTime: 499
+lastUpdated: 2026-10-26T21:51:02.183Z
 startTime: 2022-12-05T11:13:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
